@@ -1,4 +1,5 @@
-erDiagram
+# erDiagram
+
     COUNTRY {
         int id PK "Primary Key"
         varchar name "Country Name"
