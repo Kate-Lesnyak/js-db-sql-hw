@@ -1,5 +1,3 @@
-#ER Diagram
-
 erDiagram
     COUNTRY {
         int id PK "Primary Key"
