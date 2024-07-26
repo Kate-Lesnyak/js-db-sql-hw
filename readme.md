@@ -100,3 +100,8 @@
     GENRE ||--o{ MOVIE_GENRE : "has"
     USER ||--o{ USER_FAVORITE_MOVIE : "likes"
     MOVIE ||--o{ USER_FAVORITE_MOVIE : "liked by"
+
+
+![erDiagram](<mermaid-diagram.png>)
+
+![erDiagram](https://mermaid.ink/img/pako:eNrFVtuO2jAQ_ZXIz-wP8IZoaNF2YRXYlVohWUM8EIskjiYObcTy73USLrkYlgqq5gHhmeO5-czYO-YrgazPkL5IWBNEi9gx33D6Npl7P5xdtSw-GWtHCuf1-SzaAvkBkBNDhGeplhGmGqLE8QlBo-CgbdosEQ3tfhFXf0bj7-6NnlcyRN50f1RFxhHXeWJRbTDvCjMKH5jDq-vNppObs6BUX0gjhI5K42_tLKUyx5UEtUyKUMofrlZ8KUkHXXNrjAVSMypfZbGmnJvoRs9NVUIyAqNKAqVVG3B3kd5mrndjibIUyV6gvyzeUYURyLArTiBNfykSzaBgCxro4fm_TN_HtzJdSx22OSAw9UkmWqq4xgL0zZmFzjITa9QtdhCGCCnyYtFwi7Q1e0RG0LRWRCQkoa8V2QhyjTsqNWYfXrSv7sRz_89gKs-LWwOI1FYiL8PodSphmo6syrsjGn4beIPh_OY2sgwSK4mOeFIhXki0c9xIqYr_yYzgo8H71BvPXW7tmGI2XCr9xXO5v_SHK_Lj4-lJ7Y4Dv-8sWADpgllBVfgtTHndXbVSR5Qz84re6uJgtgOpOvsEqxQH1JlaV401YUkIud1cvXdaBivh57gy9VoZ2rQo4KHcoD2AazuEs8yLTazHIiRzMwjzJCpZtmA6QNMzrCwX0KaA7Q0OMq1meeyz_grCFHuMVLYOTquKNoc31UmKQpo5-lI9ucqXV48lEP9UymA0Zbj_A9R-4vI?type=png)
